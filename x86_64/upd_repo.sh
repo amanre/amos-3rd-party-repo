@@ -10,7 +10,7 @@ function banner() {
 	printf "\n"
 }
 
-repoargs=("-n -R amos-3party-repo.db.tar.gz *.pkg.tar.zst")
+repoargs=("-n -R amos-3rd-party-repo.db.tar.gz *.pkg.tar.zst")
 
 rm -f  amos-3rd-party-repo*
 
