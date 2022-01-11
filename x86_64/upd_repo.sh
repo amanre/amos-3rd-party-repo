@@ -12,7 +12,7 @@ function banner() {
 
 repoargs=("-n -R amos-3party-repo.db.tar.gz *.pkg.tar.zst")
 
-rm -f  amos-3party-repo*
+rm -f  amos-3rd-party-repo*
 
 banner "Updating Repo Database..."
 
